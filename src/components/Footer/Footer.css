@@ -1,0 +1,12 @@
+.Footer-container{
+     font-family: Poppins;
+     font-size: medium;
+     font-weight: normal;
+     text-align: center;
+     line-height: 36px;
+     letter-spacing: -0.015em;
+     color: rgb(248, 244, 244);
+}
+.footer-link{
+     color:rgb(247, 242, 241);
+}

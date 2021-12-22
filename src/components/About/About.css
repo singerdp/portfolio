@@ -1,0 +1,32 @@
+.About.slick-arrow.slick-prev,
+.About.slick-arrow.slick-next {
+  width: 40px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 1;
+  border-radius: 5px;
+}
+.About.slick-prev::before,
+.About.slick-next::before {
+  display: none;
+}
+.About.slick-arrow.slick-next {
+  right: -70px;
+}
+.About.slick-arrow.slick-prev {
+  left: -70px;
+}
+.About .slick-dots li button:before {
+  font-size: 15px;
+}
+.About .slick-dots li {
+  top: 15px;
+}
+body{
+  background-color: black;
+}
+.foot{
+  color: aliceblue;
+}
